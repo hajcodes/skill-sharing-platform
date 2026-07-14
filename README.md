@@ -81,4 +81,4 @@ Register → Add Skill → Explore Skills → Schedule Session → Give Rating
 
 ## 👨 Author
 
-Your Name: MONISH KUMAR SHAH
+Your Name: BIBI HAJIRA MS 
